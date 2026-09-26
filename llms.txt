@@ -1,4 +1,4 @@
-# [Thalia Agent](https://github.com/cyberstar-btw/thalia-agent)
+# [Thalia Agent](https://github.com/cyberstar-btw/thalia-agent-site)
 
 Thalia Agent is a planned open-source assistant by [cyberstar-btw](https://github.com/cyberstar-btw) for B2B proposal follow-up. The agent has not been built and its source code has not been published.
 
@@ -20,7 +20,7 @@ The project website is being prepared. Email integration, message sending, and t
 - [Project status](/status.html)
 - [Privacy Policy](/privacy.html)
 - [Terms of Use](/terms.html)
-- [GitHub repository](https://github.com/cyberstar-btw/thalia-agent)
+- [GitHub repository](https://github.com/cyberstar-btw/thalia-agent-site)
 - [MIT License](/LICENSE)
 
 Contact: cybersec-star@proton.me
