@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fafafa"/>
+  <text x="72" y="236" fill="#171717" font-family="Arial,sans-serif" font-size="72" font-weight="500">Thalia Agent</text>
+  <line x1="72" y1="278" x2="1128" y2="278" stroke="#e5e5e5" stroke-width="2"/>
+  <text x="72" y="350" fill="#4d4d4d" font-family="Arial,sans-serif" font-size="34">A planned open-source assistant</text>
+  <text x="72" y="410" fill="#666666" font-family="Arial,sans-serif" font-size="26">Follow-up for B2B proposals · by cyberstar-btw</text>
+</svg>
