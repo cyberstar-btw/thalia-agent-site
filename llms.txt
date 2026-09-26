@@ -10,7 +10,7 @@ Thalia Agent is a planned open-source assistant by [cyberstar-btw](https://githu
 
 ## Current status
 
-The project website is being prepared. Email integration, message sending, and the agent are not available.
+The website source is published in this repository, but the site is not yet deployed to a public web address. Email integration, message sending, and the agent are not available.
 
 ## Pages
 
@@ -25,4 +25,4 @@ The project website is being prepared. Email integration, message sending, and t
 
 Contact: cybersec-star@proton.me
 
-The production domain has not yet been confirmed. The public project repository contains an initial README; the agent source code has not been published.
+The production domain has not yet been confirmed. The agent source code has not been published.
